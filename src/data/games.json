@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "category": "Puzzle",
+    "iframeUrl": "https://play2048.co/",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/be/2048_logo.svg"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced puzzle game inspired by Tetris.",
+    "category": "Arcade",
+    "iframeUrl": "https://hextris.io/",
+    "thumbnail": "https://hextris.io/images/icon.png"
+  },
+  {
+    "id": "dino-run",
+    "title": "Chrome Dino Run",
+    "description": "The classic offline runner game.",
+    "category": "Action",
+    "iframeUrl": "https://chromedino.com/",
+    "thumbnail": "https://chromedino.com/assets/offline-sprite-2x.png"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "description": "Cross the road without getting hit!",
+    "category": "Action",
+    "iframeUrl": "https://poki.com/en/g/crossy-road",
+    "thumbnail": "https://img.poki.com/cdn-cgi/image/quality=70,width=600,height=600,fit=cover,g=0.5x0.5,f=auto/4d27198e-cc72-46a2-9989-1386dbe3f3ce.png"
+  },
+  {
+    "id": "paper-io-2",
+    "title": "Paper.io 2",
+    "description": "Capture as much territory as possible.",
+    "category": "IO Games",
+    "iframeUrl": "https://paper-io.com/",
+    "thumbnail": "https://paper-io.com/images/share.png"
+  },
+  {
+    "id": "hole-io",
+    "title": "Hole.io",
+    "description": "Consume everything in the city as a black hole.",
+    "category": "IO Games",
+    "iframeUrl": "https://hole-io.com/",
+    "thumbnail": "https://hole-io.com/img/share.png"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Roll down the slope for as long as possible.",
+    "category": "Arcade",
+    "iframeUrl": "https://poki.com/en/g/slope",
+    "thumbnail": "https://img.poki.com/cdn-cgi/image/quality=70,width=600,height=600,fit=cover,g=0.5x0.5,f=auto/5f58c3a9f7374b33a5951d45112185c7.png"
+  },
+  {
+    "id": "temple-run-2",
+    "title": "Temple Run 2",
+    "description": "Run from the demon monkeys in this classic runner.",
+    "category": "Action",
+    "iframeUrl": "https://poki.com/en/g/temple-run-2",
+    "thumbnail": "https://img.poki.com/cdn-cgi/image/quality=70,width=600,height=600,fit=cover,g=0.5x0.5,f=auto/779c882d-88b1-4f10-918d-424a6b231135.png"
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "description": "Surf the subways and dodge the inspector.",
+    "category": "Action",
+    "iframeUrl": "https://poki.com/en/g/subway-surfers",
+    "thumbnail": "https://img.poki.com/cdn-cgi/image/quality=70,width=600,height=600,fit=cover,g=0.5x0.5,f=auto/8e7f1a3a-1d16-4316-bcc7-9c927f8ee75b.png"
+  }
+]
